@@ -21,5 +21,6 @@ public class test{
         }else{
             System.out.println(name+" You be Ghost🤣");
         }
+        System.out.println("In the next two years "+name+" will be "+age+2+" years old");
     }
 }
